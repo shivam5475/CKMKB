@@ -65,8 +65,7 @@ This Streamlit app converts English or Hinglish text to Chinese (Simplified) tex
 ## Running Locally
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/shivam5475/CKMKB.git
    ```
 
 2. **Install FFmpeg**:
